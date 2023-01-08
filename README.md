@@ -1,4 +1,4 @@
-Learning Linux
+Brushing up on Linux
 ==============
 Repository created in order to learn Linux and collect resources connected with it
 
